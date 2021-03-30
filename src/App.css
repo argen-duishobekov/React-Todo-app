@@ -1,0 +1,20 @@
+.App {
+    display: flex;
+    flex-flow: column nowrap;
+    margin-top: 50px;
+  }
+  
+  .App .title {
+      width: 200px;
+      height: 30px;
+    font-size: 20px;
+    padding: 0px 40px 0px 40px;
+    background-color: rgba(204, 255, 123, 0.438);
+    border-radius: 10px;
+    border: 2px solid#6DF740;
+    align-self: center;
+    text-align: center;
+    color: #1b1b1b;
+    font-family: "Covered By Your Grace", cursive;
+  }
+  
